@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ## 💻 Devices
 
-![](https://img.shields.io/badge/Xiaomi Pad 6 Pro-FF9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF9121)
+![]('https://img.shields.io/badge/Xiaomi Pad 6 Pro-FF9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF9121')
 
-![](https://img.shields.io/badge/Redmibook 14 II-FF9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF9121)
+![]('https://img.shields.io/badge/Redmibook 14 II-FF9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF9121')
