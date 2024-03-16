@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 ![](https://ys.himiku.com/rand/81612550.png)
 
 ## 💻 Devices
+
 [![Xiaomi Pad 6 Pro](https://img.shields.io/badge/Xiaomi Pad 6 Pro-FF9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF9121)](https://www.mi.com/xiaomi-pad-6-pro)
-[![Redmibook 14 II](https://img.shields.io/badge/Redmibook 14 II-FF9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF9121)]()
+
+![Redmibook 14 II](https://img.shields.io/badge/Redmibook 14 II-FF9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF9121)
