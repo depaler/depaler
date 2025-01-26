@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=depaler&show_icons=true)
 
-![](https://ys.himiku.com/rand/81612550.png)
-
 ## 💻 Devices
 ![OPPO R11 Pluskt](https://img.shields.io/badge/OPPO_R11_Pluskt-00A04A?style=flat-square&logo=oppo&logoColor=FFFFFF&labelColor=00A04A)
 ![Xiaomi Pad 6 Pro](https://img.shields.io/badge/Xiaomi%20Pad%206%20Pro-FF9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF9121)
